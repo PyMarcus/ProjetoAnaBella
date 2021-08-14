@@ -1,0 +1,56 @@
+body {
+    background-image: url('./fundo.png');
+    background-color: #d2d2d2;  /* se a imagem nao for carregada (cache) há a cor de reserva */
+    font: 16px Arial, Helvetica;
+}
+
+#principal {
+    margin: auto;
+    width: 900px; /*largura padrão para dentro do container*/
+}
+
+#menu {
+    background: ;
+    padding: 18px;
+}
+
+.links{
+    padding: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color:#c5c5b2;
+}
+
+/*conteudo da pagina */
+#conteudo {
+    background: #e8e8e8;
+    padding: 10px;
+}
+
+
+
+
+/*links menu*/
+a {
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+
+/*etc*/
+.centralizar {
+    text-align: center;
+}
+
+.titulo {
+    color: #4b566a;
+    padding: 5px;
+}
+
+.bordas-imagens{
+    background-color:  #c5c5b2;
+    padding: 10px;
+    
+}
